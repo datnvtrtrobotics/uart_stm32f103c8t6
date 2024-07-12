@@ -1,0 +1,4 @@
+../app/src/uart_f103.c:24:6:Config_uart	2
+../app/src/uart_f103.c:37:6:CircularBuffer_Write	2
+../app/src/uart_f103.c:45:5:CircularBuffer_Read	2
+../app/src/uart_f103.c:53:6:CheckAndPrintReceivedData	5

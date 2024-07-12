@@ -1,0 +1,11 @@
+../drvs/src/uart.c:16:13:UART_MspInit	4
+../drvs/src/uart.c:71:5:UART_Init	3
+../drvs/src/uart.c:95:5:init	4
+../drvs/src/uart.c:107:8:read	4
+../drvs/src/uart.c:117:9:readbyte	3
+../drvs/src/uart.c:130:8:write	4
+../drvs/src/uart.c:140:5:writebyte	7
+../drvs/src/uart.c:158:6:UART_Print	1
+../drvs/src/uart.c:162:6:UART_Println	1
+../drvs/src/uart.c:169:5:UART_Available	1
+../drvs/src/uart.c:173:9:UART_Read	2
